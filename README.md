@@ -6,6 +6,12 @@ Follow the steps to fill up the response form on [IIT Roorkee acad website](http
 
 - clone the repository in your local machine
 ```
-git clone
+git clone (url)
 ```
-- 
+- run the python code with the updated python software installed on your machine
+```
+python filling_response_form.py
+```
+- fill in your username and password for your account and select the courses that you have taken in semester
+
+The program will automatically login and fill up your response form.
